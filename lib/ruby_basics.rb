@@ -18,6 +18,7 @@ def greeting( greetings,  name )
 end
 
 def return_a_value
+    put value
     return value
 end
 
