@@ -17,14 +17,12 @@ def greeting( greetings,  name )
 
 end
 
-def return_a_value(value2)
-     puts value2
-    return value2
+def return_a_value
+    return value
 end
 
-def last_evaluated_value(value1)
-  puts value1
-  return value1
+def last_evaluated_value
+  returne value 
 end
 
 def pizza_party(type="cheese")
