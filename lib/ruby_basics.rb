@@ -18,12 +18,11 @@ def greeting( greetings,  name )
 end
 
 def return_a_value
-    put value
-    return value
+   
 end
 
 def last_evaluated_value
-  returne value 
+ 
 end
 
 def pizza_party(type="cheese")
